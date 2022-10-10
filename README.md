@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DayBright-David
-- 👀 I’m interested in Brain-computer Interfaces, Iot and Machine learning.
+- 👀 I’m interested in brain-computer interfaces, Iot and machine learning.
 - 🌱 I’m currently working hard, playing harder hahaha.
 - 📫 daybright.daibo@gmail.com
 
