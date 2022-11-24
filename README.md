@@ -9,7 +9,6 @@
 ```
 
 ## Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daybright.daibo@gmail.com)
 [![Website](https://img.shields.io/badge/Website-FECC00?style=for-the-badge&logo=google&logoColor=white)](https://publons.com/wos-op/researcher/3663196/bo-dai/)
 [![Google Scholar](https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=61bL-28AAAAJ)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E9%93%82-%E6%88%B4-5156b1b9/)
