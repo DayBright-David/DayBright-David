@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DayBright-David
 - 👀 I’m interested in Iot and machine learning.
-- 🌱 We are developing fundamental algorithms and practical system for brain-computer interfaces.
+- 🌱 My goal is to find solution to real world problem using brain-computer interface techniques. Currently, I lead a small team based on THU undergraduates, we are developing fundamental algorithms and practical system for brain-computer interfaces.
 - 📫 daybright.daibo@gmail.com
 
 ## Bo Dai
