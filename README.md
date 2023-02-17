@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DayBright-David
 - 👀 I’m interested in Iot and machine learning.
-- 🌱 I’m currently working hard, playing harder hahaha.
+- 🌱 We are developing fundamental algorithms and practical system for brain-computer interfaces.
 - 📫 daybright.daibo@gmail.com
 
 ## Bo Dai
