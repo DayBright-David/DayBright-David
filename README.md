@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DayBright-David
-- 👀 I’m interested in Iot and machine learning.
+- 👀 I’m interested in machine learning technology, physics and history.
 - 🌱 My goal is to find solution to real world problem using brain-computer interface techniques. 
 - 📫 daybright.daibo@gmail.com
 
