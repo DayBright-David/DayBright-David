@@ -16,18 +16,10 @@
      🌱 My three-year goal is to find solution to BI science problem using AI techniques.</p>
 
   <!-- 社交徽章 -->
-  <a href="https://github.com/DayBright-David">
-    <img src="https://img.shields.io/github/followers/DayBright-David?label=关注&style=social" alt="GitHub Followers" />
-  </a>
   <a href="mailto:daybright.daibo@gmail.com">
     <img src="https://img.shields.io/badge/Email-daybright.daibo%40gmail.com-blue?style=flat-square" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-关注我-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER-blue?style=flat-square&logo=twitter" alt="Twitter" />
-  </a>
+  
 </div>
 
 ---
