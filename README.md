@@ -41,7 +41,7 @@
   <a href="https://twitter.com/daybright_david">
     <img
       src="https://img.shields.io/badge/Twitter-@daybright_david?style=flat-square&logo=twitter&logoColor=white"
-      alt="Twitter"
+      alt="X"
     />
   </a>
   
