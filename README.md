@@ -20,6 +20,30 @@
   <a href="mailto:daybright.daibo@gmail.com">
     <img src="https://img.shields.io/badge/Email-daybright.daibo%40gmail.com-blue?style=flat-square" alt="Email" />
   </a>
+  <!-- 社交徽章（Instagram / Google Scholar / Twitter / WeChat）-->
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/daybright_b.dai">
+    <img
+      src="https://img.shields.io/badge/Instagram-@YOUR_INSTAGRAM_USERNAME-E4405F?style=flat-square&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?hl=en&user=61bL-28AAAAJ">
+    <img
+      src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white"
+      alt="Google Scholar"
+    />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/daybright_david">
+    <img
+      src="https://img.shields.io/badge/Twitter-@daybright_david?style=flat-square&logo=twitter&logoColor=white"
+      alt="Twitter"
+    />
+  </a>
   
 </div>
 
