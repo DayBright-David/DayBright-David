@@ -40,9 +40,9 @@
   <!-- Twitter -->
   <a href="https://x.com/daybright_david">
   <img
-    src="https://img.shields.io/badge/X-@daybright_david-1DA1F2?style=flat-square&logo=twitter&logoColor=white"
-    alt="X (formerly Twitter)"
-  />
+      src="https://img.shields.io/badge/Twitter-@daybright_david-1DA1F2?style=flat-square&logo=twitter&logoColor=white"
+      alt="Twitter"
+    />
 </a>
 
   
