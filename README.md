@@ -38,9 +38,9 @@
   </a>
 
   <!-- Twitter -->
-  <a href="https://twitter.com/daybright_david">
+  <a href="https://x.com/daybright_david">
     <img
-      src="https://img.shields.io/badge/Twitter-@daybright_david?style=flat-square&logo=X&logoColor=white"
+      src="https://img.shields.io/badge/X-@daybright_david?style=flat-square&logo=X&logoColor=white"
       alt="X"
     />
   </a>
