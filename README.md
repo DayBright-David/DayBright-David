@@ -8,7 +8,8 @@
 <!-- 顶部头像 & 徽章 -->
 <div align="center">
   <!-- 头像（可留空或自行上传） -->
-  <img src="https://avatars.githubusercontent.com/DayBright-David" alt="Avatar" width="120" height="120" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/DayBright-David/IMG_0295.JPG" alt="Scenery"
+  style="max-width: 80%; height: auto;" />
 
   <!-- 名称与介绍 -->
   <h1>👋 Hi, I’m @DayBright-David </h1>
