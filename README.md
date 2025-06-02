@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DayBright-David
 - 👀 I’m interested in machine learning technology, physics and history.
-- 🌱 My three-year goal is to find solution to BI science problem using data-driven techniques.
+- 🌱 My three-year goal is to find solution to BI science problem using AI techniques.
 - 📫 daybright.daibo@gmail.com
 
 ## Bo Dai
