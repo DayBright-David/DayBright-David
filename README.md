@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 GitHub 统计 (GitHub Stats)
+## GitHub Stats
 
 <div align="center">
 
