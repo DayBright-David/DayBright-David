@@ -24,7 +24,7 @@
   <!-- Instagram -->
   <a href="https://www.instagram.com/daybright_b.dai">
     <img
-      src="https://img.shields.io/badge/Instagram-@YOUR_INSTAGRAM_USERNAME-E4405F?style=flat-square&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-@daybright_b.dai?style=flat-square&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
