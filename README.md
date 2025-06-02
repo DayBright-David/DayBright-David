@@ -39,11 +39,12 @@
 
   <!-- Twitter -->
   <a href="https://x.com/daybright_david">
-    <img
-      src="https://img.shields.io/badge/X-@daybright_david?style=flat-square&logo=X&logoColor=white"
-      alt="X"
-    />
-  </a>
+  <img
+    src="https://img.shields.io/badge/X-@daybright_david?style=flat-square&logo=x&logoColor=white"
+    alt="X (formerly Twitter)"
+  />
+</a>
+
   
 </div>
 
