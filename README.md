@@ -9,7 +9,7 @@
 <div align="center">
   <!-- 头像（可留空或自行上传） -->
   <img src="https://raw.githubusercontent.com/DayBright-David/DayBright-David/main/IMG_0295.JPG" alt="Scenery"
-  style="max-width: 50%; height: auto;" />
+  width="350px" />
 
   <!-- 名称与介绍 -->
   <h1>👋 Hi, I’m @DayBright-David </h1>
