@@ -14,7 +14,7 @@
   <!-- 名称与介绍 -->
   <h1>👋 Hi, I’m @DayBright-David </h1>
   <p>👀 I’m interested in machine learning technology, physics and history.<br/>
-     🌱 My three-year goal is to find solution to BI science problem using AI techniques.</p>
+     🌱 My three-year goal is to find solutions to BI science problems using AI techniques.</p>
 
   <!-- 社交徽章 -->
   <a href="mailto:daybright.daibo@gmail.com">
