@@ -35,7 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayBright-David&layout=compact&theme=tokyonight" alt="语言占比" />
 
 <!-- GitHub 综合统计 -->
-<img src="https://github-readme-stats.vercel.app/api?username=DayBright-David&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
 
 </div>
 
