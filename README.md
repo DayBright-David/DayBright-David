@@ -32,7 +32,7 @@
   <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?hl=en&user=61bL-28AAAAJ">
     <img
-      src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white"
+      src="https://img.shields.io/badge/Google_Scholar-Bo_Dai-4285F4?style=flat-square&logo=google-scholar&logoColor=white"
       alt="Google Scholar"
     />
   </a>
