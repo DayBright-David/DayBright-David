@@ -8,8 +8,7 @@
 <!-- 顶部头像 & 徽章 -->
 <div align="center">
   <!-- 头像（可留空或自行上传） -->
-  <img src="[https://avatars.githubusercontent.com/DayBright-David/DayBright-David/IMG_0295.JPG](https://raw.githubusercontent.com/DayBright-David/DayBright-David/main/IMG_0295.JPG
-)" alt="Scenery"
+  <img src="https://raw.githubusercontent.com/DayBright-David/DayBright-David/main/IMG_0295.JPG" alt="Scenery"
   style="max-width: 80%; height: auto;" />
 
   <!-- 名称与介绍 -->
